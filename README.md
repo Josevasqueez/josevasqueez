@@ -5,6 +5,7 @@
 ## About me
 
 - 🚀 I'm currently working as a freelancer and on personal projects
+- 🔥 Skills in React, Node.js, CSS, AWS, Firebase & PostgreSQL
 - 🌱 I'm in continuous learning in web technologies
 - 💬 Ask me about web development, sports and Netflix series.
 - 📫 How to contact me: [Email](mailto:alejandrovasqueez@gmail.com) & [Twitter](https://twitter.com/josevasqueez)
