@@ -15,7 +15,6 @@
 ## Current projects
 
 - 🟩 **Xinerlink Express**: Web App for job offers for temporary services in Chile. 🇨🇱 <a href="https://app.xinerlink.cl/" target="_blank">Link Here</a>
-- 🍎 **TuAid**: Search, recommendation and scheduling system for appointments with nutritionists. 🇺🇾 <a href="https://tuaid.com.uy/" target="_blank">Link Here</a>
 
 <!--
 **Josevasqueez/josevasqueez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
