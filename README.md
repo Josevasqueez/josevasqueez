@@ -78,5 +78,5 @@ React, Next.js, Node.js, Express, PostgreSQL, DynamoDB, AWS Lambda
 
 ## 📫 Contacto
 
-- 📧 Email: alejandrovasqueez@gmail.com
-- 💼 LinkedIn: (agregar enlace)
+- 📧 Email: [alejandrovasqueez@gmail.com](mailto:alejandrovasqueez@gmail.com)
+- 💼 LinkedIn: [Josevasqueez](https://www.linkedin.com/in/josevasqueez/)
