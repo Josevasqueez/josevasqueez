@@ -1,20 +1,20 @@
-# Alejandro Vásquez // Full-Stack Engineer
+# Alejandro Vásquez 👨‍💻 Full-Stack Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-josevasqueez-0A66C2?logo=linkedin)](https://linkedin.com/in/josevasqueez)
 [![Email](https://img.shields.io/badge/Email-alejandrovasqueez@gmail.com-EA4335?logo=gmail)](mailto:alejandrovasqueez@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-alejandrovasquez.dev-000?logo=astro)](https://alejandrovasquez.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-alejandrovasquez.vercel.app-000?logo=astro)](https://alejandrovasquez.vercel.app)
 
 📍 Charallave, Venezuela
 
 ---
 
-## // PERFIL
+## 🧑‍💻 Perfil
 
 Full-Stack Engineer con 5+ años construyendo sistemas en producción. Node.js, React, PostgreSQL, AWS (Lambdas, DynamoDB). Liderazgo técnico. IA como acelerador de desarrollo bajo supervisión propia. Venezolano.
 
 ---
 
-## // STACK TECNOLÓGICO
+## 🛠️ Stack Tecnológico
 
 | Área | Tecnologías |
 |------|------------|
@@ -27,7 +27,7 @@ Full-Stack Engineer con 5+ años construyendo sistemas en producción. Node.js, 
 
 ---
 
-## // PROYECTOS
+## 🚀 Proyectos
 
 | Nombre | Tags | Enlace |
 |--------|------|--------|
@@ -36,11 +36,11 @@ Full-Stack Engineer con 5+ años construyendo sistemas en producción. Node.js, 
 | **A3W Studio** | Astro | [a3wstudio.com](https://a3wstudio.com/) |
 | **Gathercord Bot** | PostgreSQL, Javascript | [github.com/Josevasqueez/gathercord-bot](https://github.com/Josevasqueez/gathercord-bot) |
 
-📄 [Descargar CV](https://alejandrovasquez.dev/cv.pdf)
+📄 [Descargar CV](https://alejandrovasquez.vercel.app/cv.pdf)
 
 ---
 
-## // EXPERIENCIA PROFESIONAL
+## 💼 Experiencia Profesional
 
 | Cargo | Empresa | Periodo |
 |-------|---------|---------|
@@ -50,7 +50,7 @@ Full-Stack Engineer con 5+ años construyendo sistemas en producción. Node.js, 
 
 ---
 
-## // FORMACIÓN ACADÉMICA
+## 🎓 Formación Académica
 
 | Título | Institución | Año |
 |--------|------------|-----|
@@ -62,4 +62,4 @@ Full-Stack Engineer con 5+ años construyendo sistemas en producción. Node.js, 
 
 - **Email:** [alejandrovasqueez@gmail.com](mailto:alejandrovasqueez@gmail.com)
 - **LinkedIn:** [linkedin.com/in/josevasqueez](https://linkedin.com/in/josevasqueez)
-- **Portfolio:** [alejandrovasquez.dev](https://alejandrovasquez.dev)
+- **Portfolio:** [alejandrovasquez.vercel.app](https://alejandrovasquez.vercel.app)
