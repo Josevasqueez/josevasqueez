@@ -1,82 +1,65 @@
-# 👋 Hola, soy Alejandro Vásquez
+# Alejandro Vásquez // Full-Stack Engineer
 
-**Full Stack Developer | Aplicaciones Web y Serverless**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-josevasqueez-0A66C2?logo=linkedin)](https://linkedin.com/in/josevasqueez)
+[![Email](https://img.shields.io/badge/Email-alejandrovasqueez@gmail.com-EA4335?logo=gmail)](mailto:alejandrovasqueez@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-alejandrovasquez.dev-000?logo=astro)](https://alejandrovasquez.dev)
 
-Ingeniero en Informática con **5 años de experiencia en desarrollo de productos web**, especializado en desarrollo **full stack**, arquitecturas modernas, microservicios y soluciones **serverless en AWS**.
-
-Trabajo principalmente en **entornos de producto**, participando activamente en la planificación técnica, toma de decisiones de arquitectura y desarrollo de sistemas utilizados por miles de usuarios.
-
----
-
-## 🧠 Qué hago
-
-- Desarrollo de **aplicaciones web full stack** con React, Next.js y Node.js
-- Diseño y construcción de **APIs REST y microservicios**
-- Arquitectura **serverless** en AWS (Lambda, Step Functions, EventBridge)
-- Planificación técnica de productos y múltiples aplicaciones frontend
-- Integración de bases de datos SQL y NoSQL
-- Uso de **IA como apoyo al desarrollo**, refactorización y documentación
+📍 Charallave, Venezuela
 
 ---
 
-## 🛠️ Stack tecnológico
+## // PERFIL
 
-**Frontend**
-- React, Next.js, Astro  
-- Tailwind CSS, shadcn/ui  
-- Diseño responsive  
-
-**Backend**
-- Node.js, Express  
-- APIs REST  
-- Autenticación con JWT  
-
-**Bases de datos**
-- PostgreSQL  
-- DynamoDB  
-- Prisma, Sequelize  
-
-**Cloud & DevOps**
-- AWS (Lambda, S3, Step Functions, Amplify)
-- Arquitectura serverless
-- Vercel, Railway
-- CI/CD, variables de entorno, monitoreo y logs  
-
-**Estado y datos**
-- Redux Toolkit
-- Zustand
-- React Query (en proceso de adopción)
+Full-Stack Engineer con 5+ años construyendo sistemas en producción. Node.js, React, PostgreSQL, AWS (Lambdas, DynamoDB). Liderazgo técnico. IA como acelerador de desarrollo bajo supervisión propia. Venezolano.
 
 ---
 
-## 🚀 Proyecto destacado
+## // STACK TECNOLÓGICO
 
-### **Xinerlink Express**
-Ecosistema digital para la contratación ágil de trabajadores en una empresa de servicios temporales.
-
-- +6.000 usuarios activos
-- +5.500 trabajadores registrados
-- +6.100 contratos laborales generados
-- Múltiples aplicaciones frontend y backend serverless
-
-**Tecnologías:**  
-React, Next.js, Node.js, Express, PostgreSQL, DynamoDB, AWS Lambda
-
-🔗 https://app.xinerlink.cl/
-
-> *El código fuente es privado por motivos de confidencialidad.*
+| Área | Tecnologías |
+|------|------------|
+| **Backend** | Node.js, Express, APIs RESTful |
+| **Frontend** | React, Next.js, Vite + TanStack (Query / Table) |
+| **Bases de datos y Cloud** | PostgreSQL, Supabase, Firebase, AWS (DynamoDB, Lambdas, integración de eventos) |
+| **Mobile** | React Native |
+| **IA aplicada** | Claude, Cursor, Antigravity, OpenCode |
+| **Control de versiones** | Git, GitHub, Bitbucket |
 
 ---
 
-## 📌 Actualmente
+## // PROYECTOS
 
-- Abierto a **oportunidades remotas** como Full Stack Developer
-- Interesado en equipos enfocados en **desarrollo de productos**
-- Profundizando conocimientos en **React Query y arquitectura frontend**
+| Nombre | Tags | Enlace |
+|--------|------|--------|
+| **Xinerlink Express** | Frontend, Microservicios | [app.xinerlink.cl](https://app.xinerlink.cl/) |
+| **Plantilla Portafolio** | Astro | [github.com/Josevasqueez/portafolio](https://github.com/Josevasqueez/portafolio) |
+| **A3W Studio** | Astro | [a3wstudio.com](https://a3wstudio.com/) |
+| **Gathercord Bot** | PostgreSQL, Javascript | [github.com/Josevasqueez/gathercord-bot](https://github.com/Josevasqueez/gathercord-bot) |
+
+📄 [Descargar CV](https://alejandrovasquez.dev/cv.pdf)
 
 ---
 
-## 📫 Contacto
+## // EXPERIENCIA PROFESIONAL
 
-- 📧 Email: [alejandrovasqueez@gmail.com](mailto:alejandrovasqueez@gmail.com)
-- 💼 LinkedIn: [Josevasqueez](https://www.linkedin.com/in/josevasqueez/)
+| Cargo | Empresa | Periodo |
+|-------|---------|---------|
+| Full-Stack Engineer | Xinerlink | 2021 - Presente |
+| Fundador / Desarrollador | A3W Studio (estudio propio) | 2026 - presente |
+| Diseñador Web | Wizchimp / PI Marketing | 2017 - 2021 |
+
+---
+
+## // FORMACIÓN ACADÉMICA
+
+| Título | Institución | Año |
+|--------|------------|-----|
+| Ing. en Informática | Universidad Alejandro de Humboldt, Caracas | 2019 |
+
+---
+
+## Contacto
+
+- **Email:** [alejandrovasqueez@gmail.com](mailto:alejandrovasqueez@gmail.com)
+- **LinkedIn:** [linkedin.com/in/josevasqueez](https://linkedin.com/in/josevasqueez)
+- **Portfolio:** [alejandrovasquez.dev](https://alejandrovasquez.dev)
